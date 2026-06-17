@@ -1,12 +1,13 @@
 Hi I'm Rashika Goyal
 
 🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+ 📍 Jaipur, Rajasthan, India
+ 
+---
+🎓Education
+  B.Tech in Computer Science Engineering  (CGPA: 9.34/10)
+  JECRC College
 
-🎓 B.Tech in Computer Science Engineering (2022–2026)  (CGPA: 9.34/10)
-
-💡 Passionate about Data Science, Machine Learning, AI and Analytics
-
-📍 Jaipur, Rajasthan, India
 
 ---
 
@@ -16,7 +17,7 @@ Hi I'm Rashika Goyal
 * 📊 Interested in Data Science, Machine Learning and AI
 * 🌱 Continuously learning new technologies and tools
 * 💻 Love solving real-world problems using data
-* 🔍 Actively seeking opportunities in Data Science, AI/ML and Analytics
+* 🔍 Passionate about Data Science, Machine Learning, AI and Analytics
 
 ---
 
@@ -76,8 +77,6 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 📧 Email: rashikagoyal1008@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/rashikaa
-
-💻 GitHub: https://github.com/rrashikaa
 
 ⭐ Always eager to learn, build and grow in Data Science & AI.
 
