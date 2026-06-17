@@ -1,16 +1,81 @@
-## Hi there 👋
+Hi I'm Rashika Goyal
 
-<!--
-**rrashikaa/rrashikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science Engineering (2022–2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 CSE Branch Topper (9.94 SGPA)
+
+💡 Passionate about Data Science, Machine Learning, AI and Analytics
+
+📍 Jaipur, Rajasthan, India
+
+
+👩‍💻 About Me
+
+* 🎓 B.Tech Graduate in Computer Science Engineering
+* 📊 Interested in Data Science, Machine Learning and AI
+* 🌱 Continuously learning new technologies and tools
+* 💻 Love solving real-world problems using data
+* 🔍 Actively seeking opportunities in Data Science, AI/ML and Analytics
+
+
+
+## 🛠️ Technical Skills
+
+Languages: Python | SQL | C++ | HTML | CSS
+
+Data Science & Machine Learning: TensorFlow | Scikit-Learn | Pandas | NumPy
+
+Data Analytics & Visualization: Power BI | Matplotlib | Seaborn | Data Visualization
+
+Tools & Technologies: Git | GitHub | Flask | MySQL | Jupyter Notebook | VS Code | Vercel
+
+
+💼 Experience
+
+Data Science Intern | Celebal Technologies
+
+* Built end-to-end Machine Learning projects
+* Performed data preprocessing and feature engineering
+* Created dashboards and visual reports
+
+Cyber Risk & Regulatory Intern | PwC Acceleration Centres
+
+* Developed Python automation scripts
+* Worked on cybersecurity concepts and prompt engineering
+* Improved workflow efficiency through automation
+
+---
+
+🚀 Projects
+
+🚗 Car Price Predictor
+
+* Built a Machine Learning model to predict used car prices
+* Technologies: Python, Scikit-Learn, Pandas, Streamlit
+
+🎬 StreamShaala – Mood Based Movie Recommendation System
+
+* NLP-based movie recommendation system
+* Integrated TMDB API for movie information
+* Technologies: Python, NLP, SQLite
+
+ 🏆 Achievements
+
+* 🥇 CSE Branch Topper Award (9.94 SGPA)
+* 🏅 HackerRank SQL (Advanced) Certificate
+* 🎯 Promotion Lead – Google Developer Student Club (JECRC)
+* ✍️ Content Writer – Magnate Magazine
+* ❤️ Volunteer – Aashayein: The Life Saviours
+
+📫 Connect With Me
+
+📧 Email: [rashikagoyal1008@gmail.com](mailto:rashikagoyal1008@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/rashikaa
+
+💻 GitHub: https://github.com/rrashikaa
+
+⭐ Always eager to learn, build and grow in Data Science & AI.
+
