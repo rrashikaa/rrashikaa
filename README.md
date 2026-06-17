@@ -2,7 +2,7 @@ Hi I'm Rashika Goyal
 
 🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
-🎓 B.Tech in Computer Science Engineering (2022–2026)
+🎓 B.Tech in Computer Science Engineering (2022–2026)  (CGPA: 9.34/10)
 
 🏆 CSE Branch Topper (9.94 SGPA)
 
