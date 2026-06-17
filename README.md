@@ -24,13 +24,13 @@ Hi I'm Rashika Goyal
 
 🛠️ Technical Skills
 
-Languages: Python | SQL | C++ | HTML | CSS
+* Languages: Python | SQL | C++ | HTML | CSS
 
-Data Science & Machine Learning: TensorFlow | Scikit-Learn | Pandas | NumPy
+* Data Science & Machine Learning: TensorFlow | Scikit-Learn | Pandas | NumPy
 
-Data Analytics & Visualization: Power BI | Matplotlib | Seaborn | Data Visualization
+* Data Analytics & Visualization: Power BI | Matplotlib | Seaborn | Data Visualization
 
-Tools & Technologies: Git | GitHub | Flask | MySQL | Jupyter Notebook | VS Code | Vercel
+* Tools & Technologies: Git | GitHub | Flask | MySQL | Jupyter Notebook | VS Code | Vercel
 
 ---
 
