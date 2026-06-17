@@ -16,11 +16,11 @@ Hi I'm Rashika Goyal
 
 👩‍💻 About Me
 
-* 🎓 B.Tech Graduate in Computer Science Engineering
-* 📊 Interested in Data Science, Machine Learning and AI
-* 🌱 Continuously learning new technologies and tools
-* 💻 Love solving real-world problems using data
-* 🔍 Passionate about Data Science, Machine Learning, AI and Analytics
+* B.Tech Graduate in Computer Science Engineering
+* Interested in Data Science, Machine Learning and AI
+* Continuously learning new technologies and tools
+* Love solving real-world problems using data
+* Passionate about Data Science, Machine Learning, AI and Analytics
 
 ---
 
