@@ -4,8 +4,6 @@ Hi I'm Rashika Goyal
 
 🎓 B.Tech in Computer Science Engineering (2022–2026)  (CGPA: 9.34/10)
 
-🏆 CSE Branch Topper (9.94 SGPA)
-
 💡 Passionate about Data Science, Machine Learning, AI and Analytics
 
 📍 Jaipur, Rajasthan, India
@@ -71,7 +69,6 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 * 🏅 HackerRank SQL (Advanced) Certificate
 * 🎯 Promotion Lead – Google Developer Student Club (JECRC)
 * ✍️ Content Writer – Magnate Magazine
-* ❤️ Volunteer – Aashayein: The Life Saviours
 
 ---
 📫 Connect With Me
