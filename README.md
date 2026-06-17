@@ -10,6 +10,7 @@ Hi I'm Rashika Goyal
 
 📍 Jaipur, Rajasthan, India
 
+---
 
 👩‍💻 About Me
 
@@ -19,9 +20,9 @@ Hi I'm Rashika Goyal
 * 💻 Love solving real-world problems using data
 * 🔍 Actively seeking opportunities in Data Science, AI/ML and Analytics
 
+---
 
-
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 Languages: Python | SQL | C++ | HTML | CSS
 
@@ -31,6 +32,7 @@ Data Analytics & Visualization: Power BI | Matplotlib | Seaborn | Data Visualiza
 
 Tools & Technologies: Git | GitHub | Flask | MySQL | Jupyter Notebook | VS Code | Vercel
 
+---
 
 💼 Experience
 
@@ -61,6 +63,8 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 * Integrated TMDB API for movie information
 * Technologies: Python, NLP, SQLite
 
+---
+
  🏆 Achievements
 
 * 🥇 CSE Branch Topper Award (9.94 SGPA)
@@ -69,12 +73,10 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 * ✍️ Content Writer – Magnate Magazine
 * ❤️ Volunteer – Aashayein: The Life Saviours
 
+---
 📫 Connect With Me
-
 📧 Email: [rashikagoyal1008@gmail.com](mailto:rashikagoyal1008@gmail.com)
-
 💼 LinkedIn: https://www.linkedin.com/in/rashikaa
-
 💻 GitHub: https://github.com/rrashikaa
 
 ⭐ Always eager to learn, build and grow in Data Science & AI.
