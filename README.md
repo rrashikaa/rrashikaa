@@ -1,11 +1,13 @@
 Hi I'm Rashika Goyal
 
 🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast
+
  📍 Jaipur, Rajasthan, India
  
 ---
 🎓Education
   B.Tech in Computer Science Engineering  (CGPA: 9.34/10)
+  
   JECRC College
 
 
