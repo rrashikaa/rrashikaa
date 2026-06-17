@@ -75,8 +75,11 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 
 ---
 📫 Connect With Me
-📧 Email: [rashikagoyal1008@gmail.com](mailto:rashikagoyal1008@gmail.com)
+
+📧 Email: rashikagoyal1008@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/rashikaa
+
 💻 GitHub: https://github.com/rrashikaa
 
 ⭐ Always eager to learn, build and grow in Data Science & AI.
