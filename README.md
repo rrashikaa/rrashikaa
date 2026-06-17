@@ -86,13 +86,3 @@ Cyber Risk & Regulatory Intern | PwC Acceleration Centres
 
 ⭐ Always eager to learn, build and grow in Data Science & AI.
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrashikaa&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrashikaa&layout=compact" />
-</p>
-
